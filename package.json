@@ -1,0 +1,14 @@
+{
+  "name": "split-csv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "ts": "tsc -p . -w",
+    "dev": "nodemon dist/index.js",
+    "clear": "rm -rf result/*"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.2"
+  }
+}
