@@ -4,3 +4,4 @@ data/*
 !data/.gitkeep
 result/*
 !result/.gitkeep
+yarn-error.log
