@@ -6,7 +6,7 @@
   "scripts": {
     "ts": "tsc -p . -w",
     "dev": "nodemon dist/index.js",
-    "clear": "rm -rf result/*"
+    "clear": "rm -rf result2/*"
   },
   "devDependencies": {
     "@types/node": "^15.12.2"
